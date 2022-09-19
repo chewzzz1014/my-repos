@@ -2,3 +2,6 @@ theme: minima
 title: about my repos
 author: chewzzz1014
 description: Overview of my repositories
+
+plugins:
+  - jemoji
